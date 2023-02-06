@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Viraj Bhosale",
     "role": "Junior Developer pursuing my first role in the tech field",
     "linkedinId":"Your LinkedIn Id",
@@ -26,54 +26,62 @@ let resumeData = {
         "specialization":"Java & Javascript",
         "MonthOfPassing":"December",
         "YearOfPassing":"2022",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
         "UniversityName":"Ohio State University",
         "specialization":"Environmental Engineering",
         "MonthOfPassing":"May",
         "YearOfPassing":"2016",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Venktron",
+        "specialization":"Sales & Operations Manager",
+        "MonthOfLeaving":"March 2021-Current",
+        "YearOfLeaving":"",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Eaton",
+        "specialization":"Area Sales Manager",
+        "MonthOfLeaving":"July 2016 - ",
+        "YearOfLeaving":"March 2021",
+        "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Java"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Javascript"
       },
       {
         "skillname":"Reactjs"
-      }
+      },
+      {
+        "skillname" : "VueJS"
+      },
+      {
+        "skillname" : "RESTful APIs"
+      },
     ],
     "portfolio":[
       {
         "name":"TechBot",
-        "description":"Web Application to help bootcamp students navigate technical and career development resources",
-        "imgurl":"images/techbot.png"
+        "description":"Group project. Web-based chat-bot to help bootcamp students navigate technical and career development resources",
+        "imgurl":"images/techbot.png",
+        "techstack": "Technologies used: SpringJDBC, PostGreSQL, Postman, Vuejs"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Exercise Database (coming soon)",
+        "description":"Website to assist Allied Health professionals build a rehab exercise program for patients.",
+        "imgurl":"images/exrecise.png",
+        "techstack": "Technologies used: SpringJDBC, PostGreSQL, Postman, React"
       }
       
     ],
