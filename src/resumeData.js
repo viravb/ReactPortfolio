@@ -13,13 +13,8 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/viravb",
           "className":"fa fa-github"
-        },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
@@ -27,17 +22,17 @@ let resumeData = {
     "website":"virabv@gmail.com",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "UniversityName":"Tech Elevator",
+        "specialization":"Java & Javascript",
+        "MonthOfPassing":"December",
+        "YearOfPassing":"2022",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"Ohio State University",
+        "specialization":"Environmental Engineering",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2016",
         "Achievements":"Some Achievements"
       }
     ],
@@ -71,25 +66,16 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"TechBot",
+        "description":"Web Application to help bootcamp students navigate technical and career development resources",
+        "imgurl":"images/techbot.png"
       },
       {
         "name":"project2",
         "description":"mobileapp",
         "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
       }
+      
     ],
     "testimonials":[
       {
