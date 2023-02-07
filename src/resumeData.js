@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "Viraj Bhosale",
-    "role": "Junior Developer pursuing my first role in the tech field",
+    "role": "",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "",
+    "roleDescription": "Entrepreneur & Software Developer. Looking to join a team of developers & provide high impact work",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"In the process of building my start-up I realized the impact the right technology can have on a business. Since exiting my start-up, I''ve been on a pursuit to enter the tech field to become a part of the solution that transforms businesses ",
+    "aboutme":"In the process of building my start-up I realized the impact the right technology solution can have on a business. Since exiting my start-up, I''ve been on a pursuit to enter the tech field to become a part of this solution so I can help transform businesses ",
     "address":"Columbus, OH",
     "website":"virabv@gmail.com",
     "education":[
@@ -87,13 +87,14 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"It is a rarity to see an individual with such a broad technical knowledge base, pinpoint business acumen, and exceptional leadership traits. Viraj is one such rare find and will bring immeasurable value to any team he is on",
+        "name":"Derek R. - Developer, Colleague"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Viraj's approach to helping our business scale our testing needs was systematic and most important, goal-oriented. He would make a great addition to any team",
+        "name":"Mohammad U."
       }
+      
     ]
   }
   
