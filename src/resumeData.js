@@ -17,7 +17,7 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am a junior developer in the Columbus area",
+    "aboutme":"In the process of building my start-up I realized the impact the right technology can have on a business. Since exiting my start-up, I''ve been on a pursuit to enter the tech field to become a part of the solution that transforms businesses ",
     "address":"Columbus, OH",
     "website":"virabv@gmail.com",
     "education":[
