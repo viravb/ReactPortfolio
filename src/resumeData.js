@@ -91,8 +91,8 @@ let resumeData = {
         "name":"Derek R. - Developer, Colleague"
       },
       {
-        "description":"Viraj's approach to helping our business scale our testing needs was systematic and most important, goal-oriented. He would make a great addition to any team",
-        "name":"Mohammad U."
+        "description":"Viraj's approach to helping our business scale our testing needs was systematic and most importantly, goal-oriented. He would make a great addition to any team",
+        "name":"Vijay G. - Customer"
       }
       
     ]
