@@ -69,6 +69,9 @@ let resumeData = {
       {
         "skillname" : "RESTful APIs"
       },
+      {
+        "skillname" : "RESTful APIs"
+      },
     ],
     "portfolio":[
       {
