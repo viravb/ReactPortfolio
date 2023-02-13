@@ -316,7 +316,6 @@ h5,
 h6,
 hr,
 figure,
-p,
 pre {
   margin: 0;
 }
@@ -825,10 +824,12 @@ video {
 .py-3 {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
+  
 }
 
 .pt-2 {
   padding-top: 0.5rem;
+  
 }
 
 .pt-10 {

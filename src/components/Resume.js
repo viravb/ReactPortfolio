@@ -22,7 +22,7 @@ export default  class Resume extends Component {
         <i class= "devicon-react-plain mx-auto" styles="font-size: 60px;"> </i><p>React</p>
       </div>
       <div class="py-3 pt-2 bg-[#EFDB4F] drop-shadow-lg text-white rounded md:hover:scale-110">
-          <i class="devicon-javascript-plain" ></i><p>Javascript</p>
+          <i class="devicon-javascript-plain" ></i><p >Javascript</p>
       </div>
       <div class="py-3 pt-2 bg-[#1BB3C1] drop-shadow-lg text-white rounded md:hover:scale-110">
       <i class="devicon-vuejs-plain"></i><p>Vuejs</p>
