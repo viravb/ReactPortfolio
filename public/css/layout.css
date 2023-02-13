@@ -430,10 +430,9 @@ ul#nav li.current a { color: #F06000; }
    font-size: 100%;
    text-transform: uppercase;
    letter-spacing: 1px;
-   text-align: center;
+   text-align: left;
    margin-bottom: 48px;
    color: #313131;
-   border-bottom: 3px solid #11ABB0
 }
 
 /* Portfolio Content */
@@ -804,7 +803,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #c7c4c4;
 }
 #contact .section-head { margin-bottom: 42px; }
 

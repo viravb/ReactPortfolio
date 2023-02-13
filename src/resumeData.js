@@ -4,7 +4,7 @@ let resumeData = {
     "role": "",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "Entrepreneur & Software Developer. Looking to join a team of developers & provide high impact work",
+    "roleDescription": "Entrepreneur & Aspiring Software Developer. Looking to join a team of developers & provide high impact work",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,7 +17,8 @@ let resumeData = {
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"In the process of building my start-up I realized the impact the right technology solution can have on a business. Since exiting my start-up, I''ve been on a pursuit to enter the tech field to become a part of this solution so I can help transform businesses ",
+    "aboutme1":"From a young age, I've been curious about the inner workings of technology. This curiosity led me to pursue a degree in engineering which then allowed me to work in the industrial sector with highly engineered & complex products. In 2019 I was given an opportunity to move halfway across the world and help build a start-up and expand it globally. It was during this experience that I found a passion for coding and was able to witness the impact that software can have on businesses, processes and people. ",
+    "aboutme2": "This appreciation for software & technology inspired me to learn how to code and I am amazed with the projects I've been able to create & the vast potential in the tech industry. My goal is to bring these new skills, along with my diverse background to a team which I can contribute to and learn from.  ",
     "address":"Columbus, OH",
     "website":"virabv@gmail.com",
     "education":[
@@ -76,7 +77,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"TechBot",
-        "description":"Group project. Web-based chat-bot to help bootcamp students navigate technical and career development resources",
+        "description":"Techbot is a web-based chat-bot to help bootcamp students navigate technical and career development resources",
         "imgurl":"images/techbot.png",
         "techstack": "Technologies used: SpringJDBC, PostGreSQL, Postman, Vuejs"
       },

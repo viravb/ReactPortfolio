@@ -19,7 +19,7 @@ export default  class Resume extends Component {
    <div class= "grid grid-cols-3 gap-2 py-4 md:gap-4 md:grid-cols-6 md:py-4 ">
 
       <div class="py-3 pt-2 bg-[#62DAFB] shadow-lg content-center min-h-80 text-white rounded md:hover:scale-110 text-center">
-        <i class= "devicon-react-plain mx-auto" styles="font-size: 60px;"> </i><p class="text-center">React</p>
+        <i class= "devicon-react-plain mx-auto " styles="font-size: 60px;"> </i><p class="text-center">React</p>
       </div>
       <div class="py-3 pt-2 bg-[#EFDB4F] drop-shadow-lg text-white rounded md:hover:scale-110 text-center">
           <i class="devicon-javascript-plain" ></i><p class="text-center" >Javascript</p>

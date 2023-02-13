@@ -17,7 +17,13 @@ export default class About extends Component {
                <h2>About Me</h2>
                <p>
                {
-                 resumeData.aboutme
+                 resumeData.aboutme1
+               }
+               </p>
+
+               <p>
+               {
+                 resumeData.aboutme2
                }
                </p>
 
